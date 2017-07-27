@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Springer投稿录用后出版确认历程
 
-You can use the [editor on GitHub](https://github.com/LariaYu/SubmitPaper/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1.accept后后收到一封有链接的信，提交是否Open Access的确认信，其中选择No，时有一个选项I am NIH funded，直接选No就可以了
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如果基金宽裕，并且想增加引用量，扩大受众面积，可以选择Open Access，这是要付费的。
 
 ### Markdown
 
